@@ -10,7 +10,7 @@ Task_1
 
 
 Дополнительные ресурсы:
-https://github.com/Aushota2/Cognitive-modeling-environment.git
+https://github.com/Aushota1/Cognitive-modeling-environment.git
 git remote add origin https://github.com/Aushota2/Cognitive-modeling-environment.git
 git branch -M main
 git push -u origin main
